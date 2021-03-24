@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+![image](https://user-images.githubusercontent.com/79251946/112368034-f10f4100-8cda-11eb-85cb-edc8c74c2adf.png)
+
+- 🚀 I’m currently working @vivenu 
+- 💻 Roles I'm hiring for: Mobile (React Native/Flutter), Backend (Node.js), Frontend (React), UX/UI, DevOps.
+- 💬 Ask me about anything! 
+- 📫 How to reach me: p.bechelli@vivenu.com
 
 <!--
 **lemonpau/lemonpau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
