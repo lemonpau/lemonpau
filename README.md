@@ -6,7 +6,7 @@
 - 🚀 I’m currently working @vivenu 
 - 💻 Roles I'm hiring for: Mobile (React Native/Flutter), Backend (Node.js), Frontend (React), UX/UI, DevOps.
 - 💬 Ask me about anything! 
-- 📫 How to reach me: p.bechelli@vivenu.com
+- 📫 How to reach me: p.bechelli@vivenu.com, but I'm normally chillin' on [LinkedIn](https://www.linkedin.com/in/paula-bechelli/)
 
 <!--
 **lemonpau/lemonpau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
