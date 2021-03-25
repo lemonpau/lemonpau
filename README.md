@@ -1,7 +1,8 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-![image](https://user-images.githubusercontent.com/79251946/112368034-f10f4100-8cda-11eb-85cb-edc8c74c2adf.png)
+![image](https://user-images.githubusercontent.com/79251946/112474326-c4593900-8d6f-11eb-8900-0ccc8503d997.png)
+
 
 #### I’m a Head of Talent Acquisition [@vivenu](https://vivenu.com/) <img  align="center" width="24px" src="https://user-images.githubusercontent.com/79251946/112462526-6faec180-8d61-11eb-9b1a-a2ff0b4ce9ea.png" alt="mail icon"/>
 
