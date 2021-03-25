@@ -3,7 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/79251946/112368034-f10f4100-8cda-11eb-85cb-edc8c74c2adf.png)
 
-- 🚀 I’m currently working @vivenu 
+- 🚀 I’m currently working [@vivenu](https://vivenu.com/) [<img  align="center" width="24px" src="https://user-images.githubusercontent.com/79251946/112462526-6faec180-8d61-11eb-9b1a-a2ff0b4ce9ea.png" alt="mail icon"/>] 
+
 
 #### 📲 Contact Me
 [<img align="center" alt="linkedin logo" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/paula-bechelli/).   [<img  align="center" width="24px" src="https://user-images.githubusercontent.com/79251946/112461323-18f4b800-8d60-11eb-84e9-99ab3a83db91.png" alt="mail icon"/>](mailto:p.bechelli@vivenu.com)
