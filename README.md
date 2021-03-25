@@ -13,12 +13,12 @@
 
 ## 🚀 Roles I'm hiring 
 
-##### 💻 [Mobile Engineer](https://vivenu.workable.com/jobs/1612278)  
-##### 💻 [Full Stack Engineer](https://vivenu.workable.com/jobs/1616355) 
-##### 💻 [Frontend Engineer](https://vivenu.workable.com/jobs/1616370)  
-##### 💻 [Backend Engineer](https://vivenu.workable.com/jobs/1612284)  
-##### 💻 [Web Designer](https://vivenu.workable.com/jobs/1610856)  
-##### 💻 [UX/UI](https://vivenu.workable.com/jobs/1616363)  
+##### ➡️ [Mobile Engineer](https://vivenu.workable.com/jobs/1612278)  
+##### ➡️ [Full Stack Engineer](https://vivenu.workable.com/jobs/1616355) 
+##### ➡️ [Frontend Engineer](https://vivenu.workable.com/jobs/1616370)  
+##### ➡️ [Backend Engineer](https://vivenu.workable.com/jobs/1612284)  
+##### ➡️ [Web Designer](https://vivenu.workable.com/jobs/1610856)  
+##### ➡️ [UX/UI](https://vivenu.workable.com/jobs/1616363)  
 
 
 ## 💬 Ask me anything!
