@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/79251946/112368034-f10f4100-8cda-11eb-85cb-edc8c74c2adf.png)
 
-- 🚀 I’m currently working [@vivenu](https://vivenu.com/) [<img  align="center" width="24px" src="https://user-images.githubusercontent.com/79251946/112462526-6faec180-8d61-11eb-9b1a-a2ff0b4ce9ea.png" alt="mail icon"/>] 
+- 🚀 I’m currently working [@vivenu](https://vivenu.com/) <img  align="center" width="24px" src="https://user-images.githubusercontent.com/79251946/112462526-6faec180-8d61-11eb-9b1a-a2ff0b4ce9ea.png" alt="mail icon"/>
 
 
 #### 📲 Contact Me
