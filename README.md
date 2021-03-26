@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/79251946/112474326-c4593900-8d6f-11eb-8900-0ccc8503d997.png)
 
 
-#### I’m a Head of Talent Acquisition [@vivenu](https://vivenu.com/) <img  align="center" width="26px" src="https://user-images.githubusercontent.com/79251946/112636685-b7a31680-8e3d-11eb-9a11-973729e9f45e.png" alt="mail icon"/>
+#### I’m a Head of Talent Acquisition [@vivenu](https://vivenu.com/)
 
 ## 📲 Contact Me
 ### [<img align="center" alt="linkedin logo" src="https://img.shields.io/badge/-PAULA%20BECHELLI-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/paula-bechelli/) 
