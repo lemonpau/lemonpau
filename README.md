@@ -8,7 +8,8 @@
 
 
 ## 📲 Contact Me
-[<img align="center" alt="linkedin logo" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/paula-bechelli/).   [<img  align="center" width="24px" src="https://user-images.githubusercontent.com/79251946/112461323-18f4b800-8d60-11eb-84e9-99ab3a83db91.png" alt="mail icon"/>](mailto:p.bechelli@vivenu.com)
+### [<img align="center" alt="linkedin logo" src="https://img.shields.io/badge/-PAULA%20BECHELLI-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/paula-bechelli/) 
+### [<img  align="center" src="https://img.shields.io/badge/-p.bechelli@vivenu.com-c64756?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:p.bechelli@vivenu.com)
 
 
 ## 🚀 Roles I'm hiring 
