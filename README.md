@@ -13,12 +13,12 @@
 
 ## 🚀 Roles I'm hiring 
 
-##### ➡️ [Mobile Engineer](https://vivenu.workable.com/jobs/1612278)  
-##### ➡️ [Full Stack Engineer](https://vivenu.workable.com/jobs/1616355) 
-##### ➡️ [Frontend Engineer](https://vivenu.workable.com/jobs/1616370)  
-##### ➡️ [Backend Engineer](https://vivenu.workable.com/jobs/1612284)  
-##### ➡️ [Web Designer](https://vivenu.workable.com/jobs/1610856)  
-##### ➡️ [UX/UI](https://vivenu.workable.com/jobs/1616363)  
+##### [<img  align="center" src="https://img.shields.io/badge/-Mobile%20Engineer-brightgreen">](https://vivenu.workable.com/jobs/1612278)  
+##### [<img  align="center" src="https://img.shields.io/badge/-Full%20Stack%20Engineer-brightgreen">](https://vivenu.workable.com/jobs/1616355) 
+##### [<img  align="center" src="https://img.shields.io/badge/-Frontend%20Engineer-brightgreen">](https://vivenu.workable.com/jobs/1616370)  
+##### [<img  align="center" src="https://img.shields.io/badge/-Backend%20Engineer-brightgreen">](https://vivenu.workable.com/jobs/1612284)  
+##### [<img  align="center" src="https://img.shields.io/badge/-Web%20Designer-brightgreen">](https://vivenu.workable.com/jobs/1610856)  
+##### [<img  align="center" src="https://img.shields.io/badge/-UX/UI-brightgreen">](https://vivenu.workable.com/jobs/1616363)  
 
 
 ## 💬 Ask me anything!
