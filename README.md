@@ -8,7 +8,7 @@
 
 ## 📲 Contact Me
 ### [<img align="center" alt="linkedin logo" src="https://img.shields.io/badge/-PAULA%20BECHELLI-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/paula-bechelli/) 
-### [<img  align="center" src="https://img.shields.io/badge/-p.bechelli@vivenu.com-c64756?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:paula.bechelli@sellics.com)
+### [<img  align="center" src="https://img.shields.io/badge/-paula.bechelli@sellics.com-c64756?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:paula.bechelli@sellics.com)
 
 
 ## 🚀 Roles I'm hiring 
